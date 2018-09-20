@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.privalia.business.integration.test.CalculatorParametrizedTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-09-20T18:18:20" hostname="PR-BCN-769" time="0.008">
+  <properties/>
+  <testcase name="shouldReturnCorrectSum(0,0,0) [0]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.003"/>
+  <testcase name="shouldReturnCorrectSum(1,1,2) [1]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="shouldReturnCorrectSubstract(4,2,2) [0]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="shouldReturnCorrectSubstract(4,1,3) [1]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="shouldReturnCorrectDivide(6,2,3) [0]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="shouldReturnCorrectDivide(8,4,2) [1]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="shouldReturnCorrectMultiplyt(4,6,24) [0]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <testcase name="shouldReturnCorrectMultiplyt(3,5,15) [1]" classname="com.privalia.business.integration.test.CalculatorParametrizedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
