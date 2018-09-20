@@ -1,0 +1,6 @@
+com.privalia.business
+com.privalia.business.integration.test
+com.privalia.business.unit.test
+com.privalia.dao
+com.privalia.model
+com.privalia.principal
